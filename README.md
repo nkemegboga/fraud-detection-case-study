@@ -16,8 +16,8 @@ Deployed the project on an Amazon Web Services EC2 instance
 
 #### Screenshots of web app:
 
-![Dashboard](/images/web_app1?raw=true "Dashboard")
+![Dashboard](/images/web_app1.png?raw=true "Dashboard")
 
-![Dashboard](/images/web_app2?raw=true "Dashboard")
+![Dashboard](/images/web_app2.png?raw=true "Dashboard")
 
-![Dashboard](/images/web_app3?raw=true "Dashboard")
+![Dashboard](/images/web_app3.png?raw=true "Dashboard")
