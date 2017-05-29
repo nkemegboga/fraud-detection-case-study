@@ -3,6 +3,8 @@ A good way for fraudsters to convert stolen credit cards to cash is to create fa
 
 My goal was to create a model to flag which transactions need further review. I essentially built a triage model of what the most pressing (and costly) transaction we have seen. I also deployed a web app to dynamically pull in live data, make predictions on the new data and present potentially fraudulent transactions with their probability scores from our model. The transactions were segmented into 3 groups: low risk, medium risk, or high risk (based on the probabilities).
 
+Note that for reasons of confidentiality, no data files are included in this repo.
+
 #### Steps taken:
 Exploratory data analysis to get a feel for the data [See EDA Notebook](fraud_detection_EDA.ipynb)
 
